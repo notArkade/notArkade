@@ -12,6 +12,8 @@
  
  I’m currently learning **React, Python, MySQL**
 
- Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ Fun fact **The Ancient Romans used to drop a piece of toast into their wine for good health - hence why we 'raise a toast'.**
 
  </div>
+
+ <a href="mailto:pedro.sales.muniz@gmail.com"/>
