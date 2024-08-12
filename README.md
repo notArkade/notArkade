@@ -1,4 +1,4 @@
-<img align="right" alt="img" src="https://i.pinimg.com/originals/77/a1/f1/77a1f11fa4ff98b85a6bac5f7b7ffc05.gif" width="400">
+<img alt="img" src="https://i.pinimg.com/originals/77/a1/f1/77a1f11fa4ff98b85a6bac5f7b7ffc05.gif" width="400">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=5D55AE&width=435&lines=Hello+there,;Arkade+here+%3C%E2%97%95_%E2%97%95%2F%3E" />
