@@ -4,10 +4,8 @@
 
 <h2 align="center">--Interests--</h2>
 
-<br/>
-
-<h2>
+<div>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&color=5D55AE&lines=-+Coding,+idk+tho" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&color=5D55AE&lines=-+Gaming+" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&color=5D55AE&lines=-+Digital+Art" />
-</h2>
+</div>
