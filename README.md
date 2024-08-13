@@ -12,7 +12,9 @@
  
  I’m currently learning **React, Python, MySQL**
 
- </div>
+</div>
+
+<hr/>
 
 <div align="center">
 
