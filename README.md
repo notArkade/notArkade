@@ -4,7 +4,7 @@
 
 <div align="left">
  
- I like **coding** , idk tho
+ I like **coding** (i think)
 
  I love **editing videos** 🎞️
 
