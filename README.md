@@ -6,7 +6,7 @@
  
  I like **coding** , idk tho
 
- I love **gaming** 👾
+ I love **editing videos** 🎞️
 
  and sometimes, i **draw**
  
