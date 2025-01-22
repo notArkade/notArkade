@@ -10,7 +10,7 @@
 
  and sometimes, i **draw**
  
- I’m currently learning **React, Python, MySQL**
+ I’m currently learning **React**
  
  Fun fact -- **The Ancient Romans used to drop a piece of toast into their wine for good health - hence why we 'raise a toast'.**
 
