@@ -10,7 +10,7 @@
 
  and sometimes, i **draw**
  
- I’m currently learning **React**
+Currently learning **React, ML and more**
 
 </div>
 
