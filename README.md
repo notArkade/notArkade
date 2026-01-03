@@ -10,7 +10,7 @@
 
  and sometimes, i **draw**
  
-Currently learning **React, ML** and **more**
+Currently learning **React, ML** and **Agentic AI**
 
 </div>
 
